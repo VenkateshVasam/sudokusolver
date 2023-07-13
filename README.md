@@ -1,2 +1,3 @@
 # sudokusolver
-the sudoku sover programming code in java
+the sudoku solver programming code in Java.
+
